@@ -31,7 +31,7 @@ Gosto de jogos/esports, música, super-heróis e filmes/series de ficção cient
  
 <br>
  
-### redes sociais!
+### Redes sociais!
  
 <div> 
   <a href="https://instagram.com/tales.s7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
