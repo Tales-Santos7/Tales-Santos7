@@ -1,3 +1,6 @@
+
+![capa github](https://github.com/Tales-Santos7/Tales-Santos7/blob/main/images/banner-tales.png)  
+
 ## Bem-vindo(a) ao perfil do Tales Santos 😁
 
  <div>
