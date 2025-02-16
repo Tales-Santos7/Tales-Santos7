@@ -3,11 +3,16 @@
 
 ## Bem-vindo(a) ao perfil do Tales Santos 😁
 
- <div>
-   <a href="https://github.com/Tales-Santos7">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tales-Santos7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tales-Santos7&layout=compact&langs_count=6&theme=dark"/>
-</div>
+<center>
+  <table>
+    <tr>
+        <td> <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Tales-Santos7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        </td>
+        <td> <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tales-Santos7&layout=compact&langs_count=6&theme=dark"/>
+        </td>
+    </tr>   
+  </table>
+</center>  
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
