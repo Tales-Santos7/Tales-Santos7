@@ -1,7 +1,4 @@
-
 ![capa github](https://github.com/Tales-Santos7/Tales-Santos7/blob/main/images/banner-tales.png)  
-
-## Bem-vindo(a) ao perfil do Tales Santos 😁
 
 <center>
   <table>
@@ -13,11 +10,22 @@
     </tr>   
   </table>
 </center>  
+
+## Bem-vindo(a) ao perfil do Tales Santos 😁 <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
+
+---
+
+Desenvolvedor Web com experiência em soluções front-end e back-end, com participação em projetos pessoais e colaborativos. Apaixonado por tecnologia, estou sempre em busca de aprendizado e aprimoramento como desenvolvedor full-stack. Focado em boas práticas, desempenho e usabilidade, meu objetivo é criar experiências digitais eficientes e inovadoras.
+
+
+
+Gosto de jogos/esports, música, super-heróis e filmes/series de ficção científica, programação e cães 
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
  
 <br>
