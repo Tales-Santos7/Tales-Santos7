@@ -3,9 +3,9 @@
 <center>
   <table>
     <tr>
-        <td> <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Tales-Santos7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        <td> <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Tales-Santos7&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
         </td>
-        <td> <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tales-Santos7&layout=compact&langs_count=6&theme=dark"/>
+        <td> <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tales-Santos7&layout=compact&langs_count=6&theme=merko"/>
         </td>
     </tr>   
   </table>
