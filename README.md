@@ -15,9 +15,10 @@
 
 ---
 
-Desenvolvedor Web com experiência em soluções front-end e back-end, com participação em projetos pessoais e colaborativos. Apaixonado por tecnologia, estou sempre em busca de aprendizado e aprimoramento como desenvolvedor full-stack. Focado em boas práticas, desempenho e usabilidade, meu objetivo é criar experiências digitais eficientes e inovadoras.
+Sabe aquele tipo de pessoa que gosta de transformar bagunça em coisa bonita e funcional? Prazer, Tales. Desenvolvedor web full-stack, sim — mas antes de mais nada, alguém que gosta de sentir que o que cria faz sentido para quem usa. Sou do tipo que não para até ver a tela fluída, a API robusta e o utilizador satisfeito. Trabalho com JavaScript, React, Node.js, banco de dados e aquele tempero de UI/UX que não pode faltar.
+Não sou de soluções enlatadas. Gosto de ouvir, testar, errar rápido e acertar de forma estratégica. Faço questão de entregar mais do que código: entrego produto que respira e se adapta.
 
-
+Se for para resumir: resolvo problemas com criatividade e construo experiências digitais que fazem a diferença.
 
 Gosto de jogos/esports, música, super-heróis e filmes/series de ficção científica, programação e cães 
     
