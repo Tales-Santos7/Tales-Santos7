@@ -19,7 +19,6 @@ Sabe aquele tipo de pessoa que gosta de transformar bagunça em coisa bonita e f
 Não sou de soluções enlatadas. Gosto de ouvir, testar, errar rápido e acertar de forma estratégica. Faço questão de entregar mais do que código: entrego produto que respira e se adapta.
 
 Se for para resumir: resolvo problemas com criatividade e construo experiências digitais que fazem a diferença.
-
 Gosto de jogos/esports, música, super-heróis e filmes/series de ficção científica, programação e cães 
     
 <div style="display: inline_block">
