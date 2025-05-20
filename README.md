@@ -22,28 +22,28 @@ Se for para resumir: resolvo problemas com criatividade e construo experiências
 Gosto de jogos/esports, música, super-heróis e filmes/series de ficção científica, programação e cães 
     
 <div style="display: inline_block">
-  <img title="JavaScript" align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img title="React" align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img title="Framework7" align="center" alt="Framework7" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/framework7/framework7-original-wordmark.svg">
-  <img title="NodeJs" align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img title="JQuery" align="center" alt="JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-  <img title="HTML" align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img title="CSS" align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img title="MongoDB" align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img title="MySQL" align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img title="Canva" align="center" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-  <img title="Android Studio" align="center" alt="Android Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/androidstudio/androidstudio-original.svg">
-  <img title="Apache Cordova" align="center" alt="Apache Cordova" height="30" width="40" src="https://i0.wp.com/blog.zenika.com/wp-content/uploads/2015/06/cordova-logo-2.png?fit=130%2C146&ssl=1">
+<img title="JavaScript" align="center" height="40" width="40" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript">
+<img title="React" align="center" height="40" width="40" src="https://skillicons.dev/icons?i=react" alt="React">
+<img title="Node.js" align="center" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js">
+<img title="jQuery" align="center" height="40" width="40" src="https://skillicons.dev/icons?i=jquery" alt="jQuery">
+<img title="HTML" align="center" height="40" width="40" src="https://skillicons.dev/icons?i=html" alt="HTML">
+<img title="CSS" align="center" height="40" width="40" src="https://skillicons.dev/icons?i=css" alt="CSS">
+<img title="MongoDB" align="center" height="40" width="40" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB">
+<img title="MySQL" align="center" height="40" width="40" src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
+<img title="Android Studio" align="center" height="40" width="40" src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio">
+<img title="Express" align="center" height="40" width="40"  src="https://skillicons.dev/icons?i=express" alt="Express">
+<img title="Framework7" align="center" alt="Framework7" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/framework7/framework7-original-wordmark.svg">
+<img title="Canva" align="center" alt="Canva" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
+<img title="Apache Cordova" align="center" alt="Apache Cordova" height="40" width="40" src="https://i0.wp.com/blog.zenika.com/wp-content/uploads/2015/06/cordova-logo-2.png?fit=130%2C146&ssl=1">
 </div>
-
 
 <br>
  
 ### Redes sociais!
  
 <div> 
-   <a target="_blank" href="https://instagram.com/tales.s7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/tales-santos7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a target="_blank" href = "mailto:tales.js07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   <a target="_blank" href="https://talessantos-mu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-Ffa500?style=for-the-badge&logo=portfolio&logoColor=white"></a>
+   <a title="Instagram" href="https://instagram.com/tales.s7" target="_blank"><img height="35" width="35" src="https://skillicons.dev/icons?i=instagram"></a>
+  <a title="LinkedIn" href="https://www.linkedin.com/in/tales-santos7" target="_blank"><img height="35" width="35" src="https://skillicons.dev/icons?i=linkedin"></a>
+   <a title="E-mail" href = "mailto:tales.js07@gmail.com" target="_blank"><img height="35" width="35" src="https://skillicons.dev/icons?i=gmail"></a>
+   <a title="Portfólio" href="https://talessantos-mu.vercel.app/" target="_blank"><img height="35" width="35" src="https://i.postimg.cc/x12SqkqP/tales-logo.png"></a>
 </div>
