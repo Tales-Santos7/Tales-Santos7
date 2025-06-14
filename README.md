@@ -1,4 +1,4 @@
-![capa github](https://github.com/Tales-Santos7/Tales-Santos7/blob/main/images/banner-tales.png)  
+![capa github](https://github.com/Tales-Santos7/Tales-Santos7/blob/main/images/banner-tales-c.png)  
 
 <center>
   <table>
