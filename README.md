@@ -45,5 +45,5 @@ Gosto de jogos/esports, música, super-heróis e filmes/series de ficção cient
    <a target="_blank" title="Instagram" href="https://instagram.com/tales.s7" target="_blank"><img height="35" width="35" src="https://skillicons.dev/icons?i=instagram"></a>
   <a target="_blank" title="LinkedIn" href="https://www.linkedin.com/in/tales-santos7" target="_blank"><img height="35" width="35" src="https://skillicons.dev/icons?i=linkedin"></a>
    <a target="_blank" title="E-mail" href = "mailto:tales.js07@gmail.com" target="_blank"><img height="35" width="35" src="https://skillicons.dev/icons?i=gmail"></a>
-   <a target="_blank" title="Portfólio" href="https://talessantos-mu.vercel.app/" target="_blank"><img height="35" width="35" src="https://i.postimg.cc/x12SqkqP/tales-logo.png"></a>
+   <a target="_blank" title="Portfólio" href="https://talessantos-mu.vercel.app/" target="_blank"><img height="35" width="35" src="https://i.ibb.co/dJmGpYdS/tales-logo.png"></a>
 </div>
