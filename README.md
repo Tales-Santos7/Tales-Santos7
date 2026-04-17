@@ -21,29 +21,49 @@ Não sou de soluções enlatadas. Gosto de ouvir, testar, errar rápido e acerta
 Se for para resumir: resolvo problemas com criatividade e construo experiências digitais que fazem a diferença.
 Gosto de jogos/esports, música, super-heróis e filmes/series de ficção científica, programação e cães 
     
-<div style="display: inline_block">
-<img title="JavaScript" align="center" height="40" width="40" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript">
-<img title="React" align="center" height="40" width="40" src="https://skillicons.dev/icons?i=react" alt="React">
-<img title="Node.js" align="center" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js">
-<img title="jQuery" align="center" height="40" width="40" src="https://skillicons.dev/icons?i=jquery" alt="jQuery">
-<img title="HTML" align="center" height="40" width="40" src="https://skillicons.dev/icons?i=html" alt="HTML">
-<img title="CSS" align="center" height="40" width="40" src="https://skillicons.dev/icons?i=css" alt="CSS">
-<img title="MongoDB" align="center" height="40" width="40" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB">
-<img title="MySQL" align="center" height="40" width="40" src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
-<img title="Android Studio" align="center" height="40" width="40" src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio">
-<img title="Express" align="center" height="40" width="40"  src="https://skillicons.dev/icons?i=express" alt="Express">
-<img title="Framework7" align="center" alt="Framework7" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/framework7/framework7-original-wordmark.svg">
-<img title="Canva" align="center" alt="Canva" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-<img title="Apache Cordova" align="center" alt="Apache Cordova" height="40" width="40" src="https://i0.wp.com/blog.zenika.com/wp-content/uploads/2015/06/cordova-logo-2.png?fit=130%2C146&ssl=1">
-</div>
+<table>
+  <tr>
+    <td><img title="JavaScript" width="40" src="https://skillicons.dev/icons?i=javascript"></td>
+    <td><img title="React.js" width="40" src="https://skillicons.dev/icons?i=react"></td>
+    <td><img title="Node.js" width="40" src="https://skillicons.dev/icons?i=nodejs"></td>
+    <td><img title="jQuery" width="40" src="https://skillicons.dev/icons?i=jquery"></td>
+    <td><img title="HTML5" width="40" src="https://skillicons.dev/icons?i=html"></td>
+    <td><img title="CSS3" width="40" src="https://skillicons.dev/icons?i=css"></td>
+    <td><img title="MongoDB" width="40" src="https://skillicons.dev/icons?i=mongodb"></td>
+    <td><img title="MySQL" width="40" src="https://skillicons.dev/icons?i=mysql"></td>
+    <td><img title="Android Studio" width="40" src="https://skillicons.dev/icons?i=androidstudio"></td>
+    <td><img title="Express.js" width="40" src="https://skillicons.dev/icons?i=express"></td>
+    <td><img title="Framework7" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/framework7/framework7-original-wordmark.svg"></td>
+    <td><img title="Canva" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"></td>
+    <td><img title="Apache Cordova" width="40" src="https://i0.wp.com/blog.zenika.com/wp-content/uploads/2015/06/cordova-logo-2.png"></td>
+  </tr>
+</table>
 
 <br>
  
 ### Redes sociais!
  
-<div> 
-   <a target="_blank" title="Instagram" href="https://instagram.com/tales.s7" target="_blank"><img height="35" width="35" src="https://skillicons.dev/icons?i=instagram"></a>
-  <a target="_blank" title="LinkedIn" href="https://www.linkedin.com/in/tales-santos7" target="_blank"><img height="35" width="35" src="https://skillicons.dev/icons?i=linkedin"></a>
-   <a target="_blank" title="E-mail" href = "mailto:tales.js07@gmail.com" target="_blank"><img height="35" width="35" src="https://skillicons.dev/icons?i=gmail"></a>
-   <a target="_blank" title="Portfólio" href="https://talessantos-mu.vercel.app/" target="_blank"><img height="35" width="35" src="./images/tales-logo.png"></a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://instagram.com/tales.s7" target="_blank" title="Me siga no Instagram">
+        <img height="35" width="35" src="https://skillicons.dev/icons?i=instagram">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/tales-santos7" target="_blank" title="Conecte-se comigo no LinkedIn">
+        <img height="35" width="35" src="https://skillicons.dev/icons?i=linkedin">
+      </a>
+    </td>
+    <td>
+      <a href="mailto:tales.js07@gmail.com" target="_blank" title="Envie um e-mail">
+        <img height="35" width="35" src="https://skillicons.dev/icons?i=gmail">
+      </a>
+    </td>
+    <td>
+      <a href="https://talessantos-mu.vercel.app/" target="_blank" title="Acesse meu portfólio">
+        <img height="35" width="35" src="./images/tales-logo.png">
+      </a>
+    </td>
+  </tr>
+</table>
