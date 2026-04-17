@@ -38,7 +38,6 @@ Gosto de jogos/esports, música, super-heróis e filmes/series de ficção cient
     <td><img title="Apache Cordova" width="40" src="https://i0.wp.com/blog.zenika.com/wp-content/uploads/2015/06/cordova-logo-2.png"></td>
   </tr>
 </table>
-
 <br>
  
 ### Redes sociais!
