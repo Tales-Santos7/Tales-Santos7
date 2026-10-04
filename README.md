@@ -64,5 +64,10 @@ Gosto de jogos/esports, música, super-heróis e filmes/series de ficção cient
         <img height="35" width="35" src="./images/tales-logo.png">
       </a>
     </td>
+    <td>
+      <a href="https://wa.link/r43rss" target="_blank" title="Acesse meu WhatsApp">
+        <img height="35" width="35" src="https://th.bing.com/th/id/ODF.UtbnIC78IjxRC7Hawz6CWQ?w=32&h=32&qlt=91&pcl=fffffa&o=6&pid=1.2">
+      </a>
+    </td>
   </tr>
 </table>
